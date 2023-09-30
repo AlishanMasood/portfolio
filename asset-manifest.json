@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d7beaeea.css",
-    "main.js": "/static/js/main.93f81900.js",
+    "main.js": "/static/js/main.216ad2da.js",
     "static/media/Alishan Masood Resume.pdf": "/static/media/Alishan Masood Resume.0973fb45229484edf20b.pdf",
     "static/media/Me.png": "/static/media/Me.9e1d5e85e9f6da67eec8.png",
     "static/media/Educational Website.jpg": "/static/media/Educational Website.97050bafaa509873a210.jpg",
@@ -12,10 +12,10 @@
     "static/media/Jokes Project.jpg": "/static/media/Jokes Project.133f44f42c2b6b0c1781.jpg",
     "index.html": "/index.html",
     "main.d7beaeea.css.map": "/static/css/main.d7beaeea.css.map",
-    "main.93f81900.js.map": "/static/js/main.93f81900.js.map"
+    "main.216ad2da.js.map": "/static/js/main.216ad2da.js.map"
   },
   "entrypoints": [
     "static/css/main.d7beaeea.css",
-    "static/js/main.93f81900.js"
+    "static/js/main.216ad2da.js"
   ]
 }
